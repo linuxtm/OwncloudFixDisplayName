@@ -5,7 +5,7 @@ The trigger will update existing users when they first login after the trigger i
 
 For your convenience, you can directly wget the file with the trigger:
 ```
-wget https://raw.githubusercontent.com/linuxtm/OwncloudFixUUID/master/mysql_trigger
+wget https://raw.githubusercontent.com/linuxtm/OwncloudFixDisplayName/master/mysql_trigger
 ```
 
 Or you can copy it from below:
