@@ -1,4 +1,4 @@
-# MySQL trigger to fix ownCloud display_name - this will show the full email address instead of user ID
+## MySQL trigger to fix ownCloud display_name - this will show the full email address instead of user ID
 When using Zimbra Drive integration with ownCloud, the display name is randomly replaced by user's ID in ownCloud interface.
 In order to fix it, you can set a mysql trigger to correct that and show user's email address. 
 The trigger will update existing users when they first login after the trigger is in place.
