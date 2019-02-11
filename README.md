@@ -8,7 +8,7 @@ For your convenience, you can directly wget the file with the trigger:
 wget https://raw.githubusercontent.com/linuxtm/OwncloudFixDisplayName/master/mysql_trigger
 ```
 
-Or you can copy it from below:
+Or you can copy the code below:
 ```
 DELIMITER $$
 USE `owncloud`$$
